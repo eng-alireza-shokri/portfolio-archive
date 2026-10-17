@@ -28,6 +28,7 @@ A structured archive of **20 client website projects** by **Alireza Shokri**.
 | 18 | [Abu Jamal Ahvazi](https://github.com/eng-alireza-shokri/abu-jamal-ahvazi) | Food Ordering Website |
 | 19 | [Sogand Shoes](https://github.com/eng-alireza-shokri/sogand-shoes) | Shoe E-Commerce Website |
 | 20 | [Madiya Store](./madiya-store.md) | Luxury E-Commerce Website |
+| 21 | [Qazvin Traditional Sweets](./qazvin-sweets.md) | Custom E-Commerce Platform |
 
 ## Repository Standard
 
