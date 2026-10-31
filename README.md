@@ -35,7 +35,7 @@ A structured archive of **22 documented website projects** by **Alireza Shokri**
 
 Each portfolio entry contains:
 
-- an archived visual preview or documented project reference;
+- a documented project overview;
 - a concise project overview;
 - my contribution;
 - technologies or implementation focus;
@@ -43,6 +43,6 @@ Each portfolio entry contains:
 
 ## Portfolio Policy
 
-Client websites can change after project delivery. Archived screenshots and case-study records are used as the primary portfolio record of the work represented here.
+Client websites can change after project delivery. Text-only case-study records document the professional scope of the work represented here.
 
 Client names, trademarks, logos, product photography, and other third-party assets remain the property of their respective owners.
