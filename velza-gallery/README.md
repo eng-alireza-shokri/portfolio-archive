@@ -2,46 +2,39 @@
 
 **Gold & Jewelry Retail Website · Client Project Portfolio Case Study**
 
-![Velza Gallery homepage — archived project preview](assets/cover.jpeg)
-
-**Live website:** [velza-gallery.com](https://velza-gallery.com/)
+![Velza Gallery project preview](assets/cover.jpeg)
 
 ## Overview
 
-Velza Gallery is a Persian-language, right-to-left website for a gold and jewelry brand. The homepage combines a dark navy-and-gold visual identity, editorial photography, jewelry collections, and product-led browsing.
+Persian RTL website for a gold and jewelry gallery, with a dark navy-and-gold visual identity, an editorial homepage, featured and new product sections, jewelry categories, collection banners, and brand storytelling.
 
-The archived full-page screenshot documents:
-
-- A full-width editorial hero and shopping call to action
-- Best-selling jewelry products with photos and displayed prices
-- Category navigation for necklaces, earrings, and related jewelry collections
-- Collection and jewelry-workshop promotional areas
-- A new-products section and an editorial section focused on craftsmanship
+**Live website:** [velza-gallery.com](https://velza-gallery.com/)
 
 ## My Contribution
 
-- Website design and visual presentation for the jewelry brand
-- Responsive-oriented homepage structure and product presentation
-- Persian RTL storefront layout and category organization
-- Collection banners, product cards, and brand-focused content hierarchy
+- Jewelry retail website implementation and presentation
+- Product/category and collection structure
+- Persian RTL interface and content hierarchy
+- Homepage sections, product cards, and editorial banners
 
 ## Technologies / Focus
 
 - Persian RTL Interface
-- Jewelry Product Catalog Presentation
+- Jewelry Product Presentation
 - Product and Collection Discovery
-- Visual Design and Responsive Layout
-
-**Scope of verification:** The screenshot supports the appearance and visible content described here. The CMS, programming stack, checkout/payment integration, customer accounts, and performance metrics have not been independently verified and are not claimed.
+- Visual Design
+- E-Commerce Website Layout
 
 ## Source Code
 
-This repository contains a portfolio case study and an archived website screenshot. It does **not** publish the client's production source code, configuration, credentials, or database.
+The production source code is **not published** in this repository. This is a client-owned project, and this repository is intentionally limited to a portfolio case study and archived visual material.
 
 ## Portfolio Note
 
-The image above was supplied by the portfolio owner as a complete homepage capture dated 31 October 2026. The live website may change after delivery; the archived capture documents the version presented here.
+The screenshot above is an archived project preview from my portfolio records. A client's live website may have changed after delivery, so the current production site should not automatically be treated as an exact representation of the version shown here.
+
+The site platform, backend language, payment flow, and mobile behavior have not been verified and are therefore not claimed.
 
 ## Rights & Attribution
 
-The brand name, trademarks, jewelry photography, product images, and other third-party assets belong to their respective owners. This material is included only to document professional website work.
+Client names, trademarks, logos, product photography, and other third-party visual assets remain the property of their respective owners. This repository documents my professional contribution and does not redistribute the underlying client codebase.
