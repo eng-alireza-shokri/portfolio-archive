@@ -2,7 +2,6 @@
 
 **Type:** Custom E-Commerce Website  
 **Role:** Full-Stack Developer  
-**Live Demo:** [hamidtc.shop](https://hamidtc.shop)
 
 ---
 
