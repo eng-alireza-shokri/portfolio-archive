@@ -1,6 +1,6 @@
 # Website Project Archive
 
-A structured archive of **20 client website projects** by **Alireza Shokri**.
+A structured archive of **22 documented website projects** by **Alireza Shokri**.
 
 > Production source code is intentionally not published. These repositories and case-study pages document portfolio work without redistributing client-owned codebases.
 
@@ -28,7 +28,7 @@ A structured archive of **20 client website projects** by **Alireza Shokri**.
 | 18 | [Abu Jamal Ahvazi](https://github.com/eng-alireza-shokri/abu-jamal-ahvazi) | Food Ordering Website |
 | 19 | [Sogand Shoes](https://github.com/eng-alireza-shokri/sogand-shoes) | Shoe E-Commerce Website |
 | 20 | [Madiya Store](./madiya-store.md) | Luxury E-Commerce Website |
-| 21 | [Qazvin Traditional Sweets](./qazvin-sweets.md) | Custom E-Commerce Platform |
+| 21 | [Qazvin Traditional Sweets](./qazvin-sweets.md) | Custom E-Commerce Platform |\n| 22 | [Velza Gallery](./velza-gallery.md) | Jewelry Retail Website |
 
 ## Repository Standard
 
