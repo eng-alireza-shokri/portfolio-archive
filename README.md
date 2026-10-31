@@ -15,10 +15,10 @@ A structured archive of **22 documented website projects** by **Alireza Shokri**
 | 05 | [Maramo](https://github.com/eng-alireza-shokri/maramo) | Corporate Website |
 | 06 | [Dalma Salad](https://github.com/eng-alireza-shokri/dalma-salad) | E-Commerce Website |
 | 07 | [Sabt Africa](https://github.com/eng-alireza-shokri/sabt-africa) | Corporate Website |
-| 08 | [Date Cafe](https://github.com/eng-alireza-shokri/date-cafe) | E-Commerce Website |
-| 09 | [Regnum Cafe](https://github.com/eng-alireza-shokri/regnum-cafe) | E-Commerce Website |
+| 08 | [Date Cafe](https://github.com/eng-alireza-shokri/date-cafe) | Online Ordering Website |
+| 09 | [Regnum Cafe](https://github.com/eng-alireza-shokri/regnum-cafe) | Online Ordering Website |
 | 10 | [Dariush Protein](https://github.com/eng-alireza-shokri/dariush-protein) | E-Commerce Website |
-| 11 | [Delica Cafe](https://github.com/eng-alireza-shokri/delica-cafe) | E-Commerce Website |
+| 11 | [Delica Cafe](https://github.com/eng-alireza-shokri/delica-cafe) | Online Ordering Website |
 | 12 | [Penti Baby](https://github.com/eng-alireza-shokri/penti-baby) | E-Commerce Website |
 | 13 | [Aftab Hashtom](https://github.com/eng-alireza-shokri/aftab-hashtom) | E-Commerce Website |
 | 14 | [Dehkadeh Poolaki & Nabat](https://github.com/eng-alireza-shokri/dehkadeh-poolaki-nabat) | E-Commerce Website |
@@ -35,7 +35,6 @@ A structured archive of **22 documented website projects** by **Alireza Shokri**
 
 Each portfolio entry contains:
 
-- a documented project overview;
 - a concise project overview;
 - my contribution;
 - technologies or implementation focus;
