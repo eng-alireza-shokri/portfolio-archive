@@ -8,8 +8,6 @@
 
 Persian RTL website for a gold and jewelry gallery, with a dark navy-and-gold visual identity, an editorial homepage, featured and new product sections, jewelry categories, collection banners, and brand storytelling.
 
-**Live website:** [velza-gallery.com](https://velza-gallery.com/)
-
 ## My Contribution
 
 - Jewelry retail website implementation and presentation
@@ -32,8 +30,6 @@ The production source code is **not published** in this repository. This is a cl
 ## Portfolio Note
 
 The screenshot above is an archived project preview from my portfolio records. A client's live website may have changed after delivery, so the current production site should not automatically be treated as an exact representation of the version shown here.
-
-The site platform, backend language, payment flow, and mobile behavior have not been verified and are therefore not claimed.
 
 ## Rights & Attribution
 
