@@ -1,9 +1,8 @@
 # Notice
 
-This folder documents a client website as a portfolio case study.
+This repository is a portfolio case study only.
 
 - No production source code is included.
-- No client credentials, databases, private files, or proprietary code are published.
-- Client names, logos, trademarks, jewelry product photography, and other third-party assets remain the property of their respective owners.
-- The screenshot was supplied by the portfolio owner solely as a visual record of the website.
-- This project folder follows the same README / cover / NOTICE structure used by the other portfolio case studies.
+- No client credentials, databases, private files, or proprietary code are included.
+- Client trademarks, logos, product images, and other third-party assets remain the property of their respective owners.
+- The repository is intended only to document professional work and project experience.
