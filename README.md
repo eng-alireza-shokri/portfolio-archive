@@ -29,7 +29,7 @@ A structured archive of **22 documented website projects** by **Alireza Shokri**
 | 19 | [Sogand Shoes](https://github.com/eng-alireza-shokri/sogand-shoes) | Shoe E-Commerce Website |
 | 20 | [Madiya Store](./madiya-store.md) | Luxury E-Commerce Website |
 | 21 | [Qazvin Traditional Sweets](./qazvin-sweets.md) | Custom E-Commerce Platform |
-| 22 | [Velza Gallery](./velza-gallery/README.md) | Gold & Jewelry Retail Website |
+| 22 | [Velza Gallery](https://github.com/eng-alireza-shokri/velza-gallery) | Gold & Jewelry Retail Website |
 
 ## Repository Standard
 
