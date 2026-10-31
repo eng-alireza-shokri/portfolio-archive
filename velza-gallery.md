@@ -1,9 +1,9 @@
 # Velza Gallery
 
-The complete case study, archived screenshot, and source-code notice are now organized here:
+This case study now has a standalone repository in the same format as the other portfolio projects.
 
-**[View Velza Gallery portfolio project](./velza-gallery/README.md)**
+**[View the Velza Gallery project](https://github.com/eng-alireza-shokri/velza-gallery)**
 
-![Velza Gallery website preview](./velza-gallery/assets/cover.jpeg)
+![Velza Gallery website preview](https://github.com/eng-alireza-shokri/velza-gallery/raw/refs/heads/main/assets/cover.jpeg)
 
 Live website: [velza-gallery.com](https://velza-gallery.com/)
